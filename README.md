@@ -1,12 +1,52 @@
 # BESTIE_SCHOLARSHIP_SELECTOR
 
+## Nama Kelompok + NPM:
+1. Ryan Daniel Asatama Sibagariang (Npm:2006574616)
+2. Paramarddhika Alfarist Bustaman (Npm:2006465445)
+3. Dhandy Radya Prananda (Npm:2006465685)
+
 ## Latar Belakang:
 Banyaknya mahasiswa/mahasiswi yang mendaftar beasiswa BESTIE (Beasiswa Teladan Indonesia) menyebabkan panitia kesulitan dalam menyeleksi/menyortir setiap pendaftar. Oleh karena itu, dibuat suatu program yang bertujuan untuk memudahkan panitia dalam menyeleksi/menyortir setiap pendaftar.  
 
-## Deskripsi:
+## Fitur yang Terdapar Pada Program ini
+1. Panduan Program 
+2. Input Data Diri dan Nilai Pelajar
+3. Penyeleksian Beasiswa
+4. Cari Pelajar
+5. Linked List
+6. Binary Tree
+7. Keluar Program 
+
+## Deskripsi Program:
 Pada program ini terdapat fitur 'input data diri dan nilai pelajar'. Fitur ini akan meminta mahasiswa/mahasiswi untuk mengisi Nama, NPM, Jurusan, Status Akademis, dan Nilai dari semester 1 samapai semester 6.Setelah itu, program ini akan melakukan penyeleksian beasiswa (data mahasiswa/mahasiswi akan diurutkan berdasarkan IPK terbesar ke IPK terkecil). Untuk mengetahui peserta lolos/tidak, terdapat fitur 'cari pejalar' yang berfungsi dalam mencari data mahasiswa/mahasiswi melalui NPM. Jika NPM yang dimasukkan benar maka progran akan menunjukkkan Nama, Npm, Jurusan, dan Status Akademis Peserta. Tidak hanya itu, program juga akan menunjukkan apakah peserta lolos/tidak lolos dalam seleksi beasiswa BESTIE (Beasiswa Teladan Indonesia). Perlu diketahui bahwa program ini digunakan oleh panitia penyeleksi beasiswa (user = panitia penyeleksi beasiswa).  
 
-Selain itu, 
+Selain itu, pada program ini terdapat beberapa fitur tambahan yaitu linked list dan binary tree. Pada fitur linked list, terdapat beberapa sub-fitur di dalamnya, yaitu:
+  1. List Data 
+     Sub-fitur ini memiliki fungsi dalam men-sorting data berdasarkan IPK (dari IPK tertinggi ke IPK terendah). Nama dari IPK tertinggi akan ditampilkan paling atas.   
+     Sedangkan, nama dari IPK terendah akan ditampilkan paling bawah. 
+
+  2. Insert Data
+     Sub-fitur ini memiliki fungsi dalam menambahkan sebuah data mahasiswa/mahasiswi (nama dan npm).
+  
+  3. Delete Data
+     Sub-fitur ini memliki fungsi dalam menghapus sebuah data mahasiswa/mahasiswi yang diinginkan.
+ 
+  4. Keluar
+     Sub-fitur ini memiliki fungsi dalam 
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 Program ini memiliki beberapa fitur yang akan memudahkan panitia dalam proses seleksi beasiswa BESTIE, yaitu 
 - Terdapat fitur input data diri dan nilai Mahasiswa.
