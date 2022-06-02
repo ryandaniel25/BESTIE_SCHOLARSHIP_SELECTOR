@@ -35,10 +35,10 @@ Selain itu, pada program ini terdapat beberapa fitur tambahan yaitu linked list 
   Sub-fitur ini memiliki fungsi dalam men-sorting data berdasarkan IPK (dari IPK tertinggi ke IPK terendah). Nama dari IPK tertinggi akan ditampilkan paling atas. Sedangkan, nama dari IPK terendah akan ditampilkan paling bawah. 
 
 - Insert Data
-  Sub-fitur ini memiliki fungsi dalam menambahkan sebuah data mahasiswa/mahasiswi yang ingin mengikuti beasiswa BESTIE (Beasiswa Teladan Indonesia). Data yang dimasukkan berupa Nama dan IPK mahasiswa/mahasiswi. 
+  Sub-fitur ini memiliki fungsi dalam menambahkan sebuah data mahasiswa/mahasiswi yang ingin mengikuti penyeleksian program beasiswa BESTIE (Beasiswa Teladan Indonesia). Data yang dimasukkan berupa Nama dan IPK mahasiswa/mahasiswi. 
 
 - Delete Data
-  Sub-fitur ini memliki fungsi dalam menghapus sebuah data mahasiswa/mahasiswi yang telah terdaftar sebagai peserta penyeleksian beasiswa BESTIE (Beasiswa Teladan Indonesia). Akibatnya, jika masuk ke sub-fitur 'List Data' lagi maka data mahasiswa/mahasiswi yang telah dihapus tidak akan di tampilkan.  
+  Sub-fitur ini memliki fungsi dalam menghapus sebuah data mahasiswa/mahasiswi yang telah terdaftar sebagai peserta penyeleksian program beasiswa BESTIE (Beasiswa Teladan Indonesia). Akibatnya, jika masuk ke sub-fitur 'List Data' lagi maka data mahasiswa/mahasiswi yang telah dihapus tidak akan di tampilkan.  
 
 - Keluar
   Dengan Sub-fitur ini, user dapat keluar dari fitur 'linked list' dan masuk ke fitur utama yang ada pada program.
@@ -46,16 +46,16 @@ Selain itu, pada program ini terdapat beberapa fitur tambahan yaitu linked list 
 
 Sedangkan pada fitur 'binary tree',terdapat beberapa sub-fitur di dalamnya, yaitu:
 - Insert Data
-  Sub-fitur ini memiliki fungsi dalam memasukkan sebuah data mahasiswa/mahasiswi yang ingin mengikuti beasiswa BESTIE (Beasiswa Teladan Indonesia). Data yang dimasukkan berupa Nama dan IPK mahasiswa/mahasiswi.
+  Sub-fitur ini memiliki fungsi dalam memasukkan sebuah data mahasiswa/mahasiswi yang ingin mengikuti penyeleksian program beasiswa BESTIE (Beasiswa Teladan Indonesia). Data yang dimasukkan berupa Nama dan IPK mahasiswa/mahasiswi.
   
  - Display Data
    Setelah memasukkan data dengan menggunakan sub-fitur 'Insert Data', kita dapat melihat semua data yang telah dimasukkan dengan menggunakan subfitur 'Display Data'. Data yang ditampilkan berupa Nama dan IPK mahasiswa/mahasiswi dari IPK yang tertinggi ke IPK yang terendah. 
 
  - Search Data
-   Sub-fitur ini memiliki fungsi dalam mencari nilai IPK yang diinginkan. Dengan sub-fitur ini, user dapat mencari "Apakah IPK yang Diinginkan Telah Terdaftar dalam Program Penyeleksian Beasiswa BESTIE (Beasiswa Teladan Indonesia)".  
+   Sub-fitur ini memiliki fungsi dalam mencari nilai IPK yang diinginkan. Dengan sub-fitur ini, user dapat mencari "Apakah IPK yang Diinginkan Telah Terdaftar dalam Penyeleksian Program Beasiswa BESTIE (Beasiswa Teladan Indonesia)".  
   
  - Delete Data
-   Sub-fitur ini memliki fungsi dalam menghapus sebuah data mahasiswa/mahasiswi yang telah terdaftar sebagai peserta penyeleksian beasiswa BESTIE (Beasiswa Teladan Indonesia). Akibatnya, jika masuk ke sub-fitur 'Display Data' lagi maka data mahasiswa/mahasiswi yang telah dihapus tidak akan di tampilkan. Akan tetapi, perlu menjadi catatan bahwa user tidak disarankan untuk menghapus data yang dimasukkan pertama kali pada subfitur 'insert Data'. Jika user menghapus data yang dimasukkan pertama kali pada subfitur 'insert Data' maka semua data yang telah dimasukkan setelahnya, akan hilang.   
+   Sub-fitur ini memliki fungsi dalam menghapus sebuah data mahasiswa/mahasiswi yang telah terdaftar sebagai peserta penyeleksian program beasiswa BESTIE (Beasiswa Teladan Indonesia). Akibatnya, jika masuk ke sub-fitur 'Display Data' lagi maka data mahasiswa/mahasiswi yang telah dihapus tidak akan di tampilkan. Akan tetapi, perlu menjadi catatan bahwa user tidak disarankan untuk menghapus data yang dimasukkan pertama kali pada subfitur 'insert Data'. Jika user menghapus data yang dimasukkan pertama kali pada subfitur 'insert Data' maka semua data yang telah dimasukkan setelahnya, akan hilang.   
   
  - Keluar
    Dengan Sub-fitur ini, user dapat keluar dari fitur 'binary tree' dan masuk ke fitur utama yang ada pada program.
