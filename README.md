@@ -15,7 +15,7 @@ Banyaknya mahasiswa/mahasiswi yang mendaftar beasiswa BESTIE (Beasiswa Teladan I
 4. Cari Pelajar
 5. Linked List
     - List Data
-    - nsert Data
+    - Insert Data
     - Delete Data
     - Keluar
 6. Binary Tree
