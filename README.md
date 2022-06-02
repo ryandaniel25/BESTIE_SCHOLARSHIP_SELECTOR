@@ -41,7 +41,7 @@ Selain itu, pada program ini terdapat beberapa fitur tambahan yaitu linked list 
   Sub-fitur ini memliki fungsi dalam menghapus sebuah data mahasiswa/mahasiswi yang telah terdaftar sebagai peserta penyeleksian program beasiswa BESTIE (Beasiswa Teladan Indonesia). Akibatnya, jika masuk ke sub-fitur 'List Data' lagi maka data mahasiswa/mahasiswi yang telah dihapus tidak akan di tampilkan.  
 
 - Keluar
-  Dengan Sub-fitur ini, user dapat keluar dari fitur 'linked list' dan masuk ke fitur utama yang ada pada program.
+  Dengan Sub-fitur ini, user dapat keluar dari fitur 'linked list' dan masuk ke menu utama yang ada pada program.
 
 
 Sedangkan pada fitur 'binary tree',terdapat beberapa sub-fitur di dalamnya, yaitu:
@@ -58,7 +58,7 @@ Sedangkan pada fitur 'binary tree',terdapat beberapa sub-fitur di dalamnya, yait
    Sub-fitur ini memliki fungsi dalam menghapus sebuah data mahasiswa/mahasiswi yang telah terdaftar sebagai peserta penyeleksian program beasiswa BESTIE (Beasiswa Teladan Indonesia). Akibatnya, jika masuk ke sub-fitur 'Display Data' lagi maka data mahasiswa/mahasiswi yang telah dihapus tidak akan di tampilkan. Akan tetapi, perlu menjadi catatan bahwa user tidak disarankan untuk menghapus data yang dimasukkan pertama kali pada subfitur 'insert Data'. Jika user menghapus data yang dimasukkan pertama kali pada subfitur 'insert Data' maka semua data yang telah dimasukkan setelahnya, akan hilang.   
   
  - Keluar
-   Dengan Sub-fitur ini, user dapat keluar dari fitur 'binary tree' dan masuk ke fitur utama yang ada pada program.
+   Dengan Sub-fitur ini, user dapat keluar dari fitur 'binary tree' dan masuk ke menu utama yang ada pada program.
 
 
 
