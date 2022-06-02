@@ -1,7 +1,7 @@
 # BESTIE_SCHOLARSHIP_SELECTOR
 
 ## Nama Kelompok + NPM:
-1. Ryan Daniel Asatama Sibagariang (NPm:2006574616)
+1. Ryan Daniel Asatama Sibagariang (NPM:2006574616)
 2. Paramarddhika Alfarist Bustaman (NPM:2006465445)
 3. Dhandy Radya Prananda (NPM:2006465685)
 
