@@ -1,9 +1,9 @@
 # BESTIE_SCHOLARSHIP_SELECTOR
 
 ## Nama Kelompok + NPM:
-1. Ryan Daniel Asatama Sibagariang (Npm:2006574616)
-2. Paramarddhika Alfarist Bustaman (Npm:2006465445)
-3. Dhandy Radya Prananda (Npm:2006465685)
+1. Ryan Daniel Asatama Sibagariang (NPM:2006574616)
+2. Paramarddhika Alfarist Bustaman (NPM:2006465445)
+3. Dhandy Radya Prananda (NPM:2006465685)
 
 ## Latar Belakang:
 Banyaknya mahasiswa/mahasiswi yang mendaftar beasiswa BESTIE (Beasiswa Teladan Indonesia) menyebabkan panitia kesulitan dalam menyeleksi/menyortir setiap pendaftar. Oleh karena itu, dibuat suatu program yang bertujuan untuk memudahkan panitia dalam menyeleksi/menyortir setiap pendaftar.  
